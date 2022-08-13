@@ -1,4 +1,4 @@
-FROM node:10-stretch
+FROM node:lts-alpine
 
 WORKDIR /usr/src/app
 
